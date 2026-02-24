@@ -1,0 +1,1 @@
+print("Hello first commit for this repo other than the previous one lol but yeah lets see how big this repository will get rip")
